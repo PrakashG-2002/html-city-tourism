@@ -1,1 +1,28 @@
-# html-city-tourism
+##index.html
+![k index](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/e6b56d68-75e1-4608-a48c-e38b9ddd497f)
+##hotel-booking.html
+![Hotel](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/7f873996-3952-47ea-b06b-bf39c93783ff)
+##gallery.html
+![gall](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/e4232100-5dd7-4cf7-874b-419d24cee8b8)
+##heritage.html
+![heritage](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/093438c4-501c-4df3-ba91-adff985e7436)
+##site1.html
+![s1](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/84ffdc94-2474-41c3-ad15-b19c1f181c7c)
+##site2.html
+![s2](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/648bddc7-bc75-408a-9d92-4071c931cdf1)
+##site3.html
+![s3](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/b7091f49-8029-4bcd-a4de-8b138b839d08)
+##site4.html
+![s4](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/c708857b-d75e-476d-868c-44702f24d65c)
+##site5.html
+![s5](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/bb0b1ae7-6e2b-44a4-8084-d212cbeb1990)
+##site6.html
+![s6](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/64b2e06e-fffa-441a-9668-9bf537339dad)
+##site7.html
+![s7](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/10a5a5d9-6c80-4dd2-a248-4703df5b54bc)
+##site8.html
+![s8](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/480f9be2-7f2f-4590-b009-63042dd23381)
+##site9.html
+![s9](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/b30ded55-a9e4-44d1-a86e-f103f2a9cb21)
+##site10.html
+![s10](https://github.com/PrakashG-2002/html-city-tourism/assets/144507749/a6e85639-963a-41f8-a299-8247205f9b9a)
